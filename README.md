@@ -19,7 +19,4 @@ A **Streamlit-based coffee shop billing system** that can:
 
 The app also includes a **background image theme** using custom CSS.
 
----
-
-## Project Structure
 
